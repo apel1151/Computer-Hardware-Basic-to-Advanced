@@ -1,5 +1,5 @@
-                                                  Here we will cover Computer Harware concepts from basic to advance
                                                   
+<h1>Here we will cover Computer Harware concepts from basic to advance</h1>                                                  
 ROM (Read Only Memory) হলো এমন এক ধরনের মেমোরি যেখানে ডাটা স্থায়ীভাবে সংরক্ষিত থাকে এবং সাধারণ অবস্থায় ব্যবহারকারী এটি পরিবর্তন করতে পারে না।
 
 সহজভাবে বললে,
