@@ -1,0 +1,69 @@
+ROM (Read Only Memory) হলো এমন এক ধরনের মেমোরি যেখানে ডাটা স্থায়ীভাবে সংরক্ষিত থাকে এবং সাধারণ অবস্থায় ব্যবহারকারী এটি পরিবর্তন করতে পারে না।
+
+সহজভাবে বললে,
+ROM হলো কম্পিউটারের এমন একটি মেমোরি যেখানে কম্পিউটার চালু হওয়ার জন্য প্রয়োজনীয় মৌলিক নির্দেশনা আগে থেকেই সংরক্ষিত থাকে।
+
+ROM-এর প্রধান বৈশিষ্ট্য:
+স্থায়ী মেমোরি → কম্পিউটার বন্ধ হলেও এর ডাটা মুছে যায় না
+শুধু পড়া যায় → সাধারণত এতে সংরক্ষিত ডাটা পরিবর্তন করা যায় না
+কম্পিউটার চালু করার জন্য প্রয়োজনীয় তথ্য রাখে
+ROM-এ কী থাকে?
+
+সাধারণত ROM-এ BIOS/UEFI এর মতো firmware থাকে।
+
+যখন তুমি কম্পিউটার অন করো:
+
+CPU প্রথমে ROM থেকে নির্দেশনা পড়ে
+BIOS/UEFI চালু হয়
+হার্ডওয়্যার চেক করে
+তারপর Operating System লোড করে
+RAM আর ROM-এর পার্থক্য
+
+RAM
+
+অস্থায়ী মেমোরি
+কম্পিউটার বন্ধ হলে ডাটা মুছে যায়
+কাজ করার সময় ব্যবহৃত হয়
+
+ROM
+
+স্থায়ী মেমোরি
+কম্পিউটার বন্ধ হলেও ডাটা থাকে
+স্টার্টআপ নির্দেশনা সংরক্ষণ করে
+সহজ উদাহরণ
+
+ধরো,
+
+ROM = রান্নার বই 📖
+RAM = রান্নাঘরের কাজের টেবিল 🍳
+
+বইতে নির্দেশনা স্থায়ীভাবে লেখা থাকে
+টেবিলে কাজ চলাকালীন জিনিস রাখা হয়
+
+কম্পিউটারেও একইভাবে:
+
+ROM নির্দেশনা ধরে রাখে
+RAM সাময়িকভাবে কাজ করে
+
+তোমার hardware concepts শেখার জন্য একটা জিনিস মাথায় রাখো:
+👉 ROM কম্পিউটারকে “কীভাবে শুরু করতে হবে” সেটা বলে দেয়।
+
+
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180148391909/What-is-ROM_.webp" alt="Alt text" width="600" height="400">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180120495660/No-ROM-No-Start.webp" alt="Alt text" width="600" height="400">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180221296269/ROMFind-It.webp" alt="Alt text" width="600" height="400">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180134300463/ROM-is-Everywhere.webp" alt="Alt text" width="600" height="400">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180101182488/1.webp" alt="Alt text" width="600" height="400">
+
+Rom is a type of non-volatile electronic storage that is typically built-in to a device during manufacturing. It is designed to store data which shouldn't be electronically modified after manufacture. Rom stores a type of software called "Firmware" which is a type of software that is hard wired using integrated circuits. They typically come with the motherboard. It contains the BIOS of a computer system. Which contains the BOOTSTRAP
+BOOTSTRAP is a computer programme that takes the computer from power-on throogh a series fo steps before the operating system loads.
+
+<h1>BIOS/BOOTSTRAPING</h1>
+       These bootstrap steps include: 
+        1. Hardware initialisation
+        2. Providing the runtime for operating system
+BIOS programmes are pre-installed into the rom, are self starting and is the first programme to run when the computer is turned on. 
+
+<h1>BOOT SEQUENCE</h1>
+BIOS instructions are passed from the ROM to the CPU . CPU loads information to the RAM. A valid boot disk then found. Operating system is loaded and take control of the CPU. 
