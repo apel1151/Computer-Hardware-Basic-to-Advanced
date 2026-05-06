@@ -52,6 +52,10 @@ RAM সাময়িকভাবে কাজ করে
 
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180148391909/What-is-ROM_.webp" alt="Alt text" width="600" height="400">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180120495660/No-ROM-No-Start.webp" alt="Alt text" width="600" height="400">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180221296269/ROMFind-It.webp" alt="Alt text" width="600" height="400">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180134300463/ROM-is-Everywhere.webp" alt="Alt text" width="600" height="400">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180101182488/1.webp" alt="Alt text" width="600" height="400">
 
 
 
