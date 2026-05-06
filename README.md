@@ -51,11 +51,22 @@ RAM সাময়িকভাবে কাজ করে
 👉 ROM কম্পিউটারকে “কীভাবে শুরু করতে হবে” সেটা বলে দেয়।
 
 
+
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180148391909/What-is-ROM_.webp" alt="Alt text" width="600" height="400">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180120495660/No-ROM-No-Start.webp" alt="Alt text" width="600" height="400">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180221296269/ROMFind-It.webp" alt="Alt text" width="600" height="400">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180134300463/ROM-is-Everywhere.webp" alt="Alt text" width="600" height="400">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250227180101182488/1.webp" alt="Alt text" width="600" height="400">
 
+Rom is a type of non-volatile electronic storage that is typically built-in to a device during manufacturing. It is designed to store data which shouldn't be electronically modified after manufacture. Rom stores a type of software called "Firmware" which is a type of software that is hard wired using integrated circuits. They typically come with the motherboard. It contains the BIOS of a computer system. Which contains the BOOTSTRAP
+BOOTSTRAP is a computer programme that takes the computer from power-on throogh a series fo steps before the operating system loads.
 
+<h1>BIOS/BOOTSTRAPING</h1>
+       These bootstrap steps include: 
+        1. Hardware initialisation
+        2. Providing the runtime for operating system
+BIOS programmes are pre-installed into the rom, are self starting and is the first programme to run when the computer is turned on. 
+
+<h1>BOOT SEQUENCE</h1>
+BIOS instructions are passed from the ROM to the CPU . CPU loads information to the RAM. A valid boot disk then found. Operating system is loaded and take control of the CPU. 
 
