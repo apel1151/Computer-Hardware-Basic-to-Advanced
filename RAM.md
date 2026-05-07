@@ -53,3 +53,22 @@ Later a new technology has advanced DDR called DDR2 and it allows higher bus spe
 
 <h2>DDR2</h2> dimms has 240 pins DDR has 184 pins.
 
+
+"RAM consists of a list of addresses"
+
+Imagine RAM like a hotel.
+
+Each room has:
+
+Room number = Address
+Something stored inside = Data
+
+
+So RAM is basically:
+
+millions/billions of storage locations
+
+Each location has:
+
+a unique address
+
